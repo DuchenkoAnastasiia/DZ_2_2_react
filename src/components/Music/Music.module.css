@@ -1,0 +1,49 @@
+* {
+    font-family: sans-serif;
+    background: linear-gradient(blue, rgb(110, 26, 167))
+}
+
+.albom {
+    display: flex;
+    justify-content: space-evenly;
+    background: none;
+}
+
+.title {
+    background: none;
+    color: white;
+    text-align: center;
+}
+
+.img_1 {
+    width: 400px;
+    height: 500px;
+    margin: 0 auto;
+    display: block;
+}
+
+.img_2 {
+    width: 350px;
+    height: 400px;
+    margin: 0 auto;
+    display: block;
+}
+
+.info {
+    color: white;
+    background: none;
+    width: 80%;
+    margin: 30px auto;
+    text-align: justify;
+}
+
+.img_3 {
+    width: 350px;
+    height: 400px;
+    margin: 0 auto;
+    display: block;
+}
+
+div {
+    background: none;
+}
